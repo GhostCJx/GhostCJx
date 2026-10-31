@@ -37,11 +37,12 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhostCJx&show_icons=true&theme=chartreuse-dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=GhostCJx&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostCJx&layout=compact&theme=chartreuse-dark&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GhostCJx&layout=compact&theme=chartreuse-dark&hide_border=true)
 
 </div>
+
 
 ### 🚀 Featured Projects
 
