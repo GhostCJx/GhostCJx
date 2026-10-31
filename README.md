@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="banner.png" alt="GhostCJx - Cybersecurity Banner" width="100%">
+</div>
+
 # 👨‍💻 Carlos Junior | GhostCJx
 
 ### 🟢 Software Developer | Cybersecurity Enthusiast
