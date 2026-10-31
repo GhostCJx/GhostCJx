@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="banner.png" alt="GhostCJx - Cybersecurity Banner" width="100%">
+  <img src="Banner Cybersecurity Neon com GhostCJx.png" alt="GhostCJx - Cybersecurity Banner" width="100%">
 </div>
 
 # 👨‍💻 Carlos Junior | GhostCJx
